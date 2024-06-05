@@ -1,2 +1,1 @@
-# DSA-
-for college 4thsem  
+![Leetcode Stats](https://leetcard.jacoblin.cool/Amogh1SB)
